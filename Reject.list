@@ -1,0 +1,19 @@
+# 拦截补充列表(拦截广告和非必要链接使用)
+
+# MyList
+# 域名后缀匹配
+# DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,api.permutive.com
+DOMAIN-SUFFIX,sync.srv.stackadapt.com
+DOMAIN-SUFFIX,cs.admanmedia.com
+DOMAIN-SUFFIX,sync.outbrain.com
+DOMAIN-SUFFIX,rtb.adentifi.com
+DOMAIN-SUFFIX,match.sharethrough.com
+DOMAIN-SUFFIX,assets.bounceexchange.com
+
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,baidu
+
+# IP段匹配
+# IP-CIDR,8.8.8.8/32,no-resolve

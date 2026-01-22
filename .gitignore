@@ -1,0 +1,38 @@
+# rule专用
+ACL4SSR_Online_Full_Google.ini
+ACL4SSR_Online_Full_MultiMode.ini
+ACL4SSR_Online_Full_Netflix.ini
+ACL4SSR_Online_Full_NoAuto.ini
+will add.txt
+
+# 忽略 node_modules
+node_modules/
+
+# 忽略日志
+*.log
+
+# 忽略构建产物
+/dist/
+/build/
+/app/
+/runtime/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 忽略环境配置
+.env
+.env.local
+
+
+
+# 忽略文件说明 
+#/app/ 只忽略根目录 
+# app/ 全局忽略所有 app 目录（不管在哪）
+# app/dapp/ 忽略任意层 app/dapp 目录
+# /app  根目录的 app 目录 + 根目录的 app 文件
+#以下两项组合使用忽略根目录 app 文件（比如可执行文件）
+# /app
+#!/app/
