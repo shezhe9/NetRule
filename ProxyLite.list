@@ -27,7 +27,10 @@ DOMAIN-SUFFIX,2.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,3.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,checkonline.home-assistant.io
 
-
+DOMAIN-SUFFIX,ytoo.org
+DOMAIN-SUFFIX,nexitcore.com
+DOMAIN-SUFFIX,tag-link.org
+DOMAIN-SUFFIX,flowercloud.net
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,0000
