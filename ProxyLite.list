@@ -38,4 +38,5 @@ DOMAIN-SUFFIX,flowercloud.net
 # IP段匹配
 # IP-CIDR,8.8.8.8/32,no-resolve
 
+IP-CIDR,38.55.39.49/32,no-resolve
 
